@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.13",
+          "buildVersion": "13",
+          "date": "2026-10-20T23:06:35.161000+00:00",
+          "localizedDescription": "Kaynak commit 58af685: iPad: Stat çerçeve parametre sırası",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.13/YonetimMasasi-Native-0.1.13.ipa",
+          "size": 2050346,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.11",
           "buildVersion": "11",
           "date": "2026-10-20T22:39:50.354000+00:00",

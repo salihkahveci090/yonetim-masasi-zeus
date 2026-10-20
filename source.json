@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.15",
+          "buildVersion": "15",
+          "date": "2026-10-20T23:43:42.198000+00:00",
+          "localizedDescription": "Kaynak commit 88faeec: Yerel geçmiş (yalnız okuma): Kotlin ve Swift çekirdeğine taşındı, Router'a bağlandı",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.15/YonetimMasasi-Native-0.1.15.ipa",
+          "size": 2392618,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.13",
           "buildVersion": "13",
           "date": "2026-10-20T23:06:35.161000+00:00",

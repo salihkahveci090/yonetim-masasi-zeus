@@ -1,19 +1,28 @@
 {
-  "name": "Yönetim Masası",
+  "name": "FB Yönetim",
   "identifier": "com.desk.yonetim.source",
-  "subtitle": "Masa Yerel (yerel iPad/iPhone uygulaması)",
+  "subtitle": "FB Yönetim (yerel iPad/iPhone uygulaması)",
   "iconURL": "https://raw.githubusercontent.com/salihkahveci090/yonetim-masasi-zeus/main/icon.png",
   "apps": [
     {
-      "name": "Masa Yerel",
+      "name": "FB Yönetim",
       "bundleIdentifier": "com.desk.yonetim.native",
-      "developerName": "Yönetim Masası",
+      "developerName": "FB Yönetim",
       "subtitle": "Facebook hesap yönetimi",
-      "localizedDescription": "Yönetim Masası'nın WebView'sız yerel iPad/iPhone uygulaması.",
+      "localizedDescription": "Facebook hesap yönetimi: onay kuyruğu, takip, yorumlar (yerel iPad/iPhone uygulaması).",
       "iconURL": "https://raw.githubusercontent.com/salihkahveci090/yonetim-masasi-zeus/main/icon.png",
       "tintColor": "#2F5BFF",
       "category": "utilities",
       "versions": [
+        {
+          "version": "0.1.11",
+          "buildVersion": "11",
+          "date": "2026-10-20T22:39:50.354000+00:00",
+          "localizedDescription": "Kaynak commit adba901: iPad: yerleşim türü SwiftUI Layout'u gölgeliyordu (ScreenLayout); onay ayrıntısı parçalara bölündü",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.11/YonetimMasasi-Native-0.1.11.ipa",
+          "size": 1907926,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.1.8",
           "buildVersion": "8",

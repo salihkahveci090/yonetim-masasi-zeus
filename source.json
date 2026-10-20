@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.8",
+          "buildVersion": "8",
+          "date": "2026-10-20T22:17:29.795000+00:00",
+          "localizedDescription": "Kaynak commit a175ee8: iPad: Keychain kaydında parametre adı yöntemi gölgeliyordu",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.8/YonetimMasasi-Native-0.1.8.ipa",
+          "size": 2039438,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.5",
           "buildVersion": "5",
           "date": "2026-10-20T22:01:39.846000+00:00",

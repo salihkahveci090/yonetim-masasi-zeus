@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.20",
+          "buildVersion": "20",
+          "date": "2026-10-21T02:55:07.584000+00:00",
+          "localizedDescription": "Kaynak commit 9dd8c0e: Yeniden üret: not ve örnek bu üretime öncelikli kural olarak gider; eşit düğmeler, Yorumlar başlığı, Tümü arşiv dahil, akıcı süzgeç, haftalık özet bu hafta, PAGE_TIMEOUT kodu",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.20/YonetimMasasi-Native-0.1.20.ipa",
+          "size": 2723863,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.19",
           "buildVersion": "19",
           "date": "2026-10-21T02:19:35.695000+00:00",

@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.23",
+          "buildVersion": "23",
+          "date": "2026-10-21T23:55:55.595000+00:00",
+          "localizedDescription": "Kaynak commit 51d004e: Ekran kapalıyken okuma: WebKit sayfa işlemi ön plan önceliğinde; arka plan turu tanısı; Takip'teki profiller Yorumlar'a otomatik kaynak olur",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.23/YonetimMasasi-Native-0.1.23.ipa",
+          "size": 2755059,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.22",
           "buildVersion": "22",
           "date": "2026-10-21T19:19:54.898000+00:00",
@@ -93,15 +102,6 @@
           "localizedDescription": "Kaynak commit a175ee8: iPad: Keychain kaydında parametre adı yöntemi gölgeliyordu",
           "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.8/YonetimMasasi-Native-0.1.8.ipa",
           "size": 2039438,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.5",
-          "buildVersion": "5",
-          "date": "2026-10-20T22:01:39.846000+00:00",
-          "localizedDescription": "Kaynak commit 66725c0: iPad: WKWebView sayfa sürücüsü ve Facebook giriş ekranı, uygulama simgesi; Zeus kaynağı yayımlama betiği, IPA sürüm numarası",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.5/YonetimMasasi-Native-0.1.5.ipa",
-          "size": 1963100,
           "minOSVersion": "17.0"
         }
       ],

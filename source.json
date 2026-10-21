@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.22",
+          "buildVersion": "22",
+          "date": "2026-10-21T19:19:54.898000+00:00",
+          "localizedDescription": "Kaynak commit 7039814: Hesap oturumları 12 saatte bir doğrulanır (dailySessionTick, Kotlin + Swift); Yorumlar 10'arlı sayfalama; arka plan varsayılan açık",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.22/YonetimMasasi-Native-0.1.22.ipa",
+          "size": 2745103,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.21",
           "buildVersion": "21",
           "date": "2026-10-21T10:23:10.838000+00:00",

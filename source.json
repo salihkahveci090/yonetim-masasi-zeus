@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.21",
+          "buildVersion": "21",
+          "date": "2026-10-21T10:23:10.838000+00:00",
+          "localizedDescription": "Kaynak commit fdcd09e: Ekran kapalıyken çalışma (sessiz ses, Ayarlar → Arka plan), izlenen profilde yeni gönderi cihaz bildirimi, yorum okumada PAGE_TIMEOUT",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.21/YonetimMasasi-Native-0.1.21.ipa",
+          "size": 2735861,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.20",
           "buildVersion": "20",
           "date": "2026-10-21T02:55:07.584000+00:00",

@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.17",
+          "buildVersion": "17",
+          "date": "2026-10-21T00:06:28.909000+00:00",
+          "localizedDescription": "Kaynak commit 857438e: iOS: Yorumlar, Geçmiş, Örnekler, Haftalık özet, AI kullanımı ve Telegram ekranları; zamanlayıcıya yorum inceleme, geçmiş, Telegram ve cihaz bildirimi",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.17/YonetimMasasi-Native-0.1.17.ipa",
+          "size": 2681486,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.15",
           "buildVersion": "15",
           "date": "2026-10-20T23:43:42.198000+00:00",

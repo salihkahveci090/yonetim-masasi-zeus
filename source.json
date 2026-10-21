@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.19",
+          "buildVersion": "19",
+          "date": "2026-10-21T02:19:35.695000+00:00",
+          "localizedDescription": "Kaynak commit bc29d4d: Eşit kutucuklar ve hizalı alanlar, sayfa değişince girişler temizlenir, notlu Yeniden üret, olumlu ifade hafızası (iOS), okuma hatasında neden",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.19/YonetimMasasi-Native-0.1.19.ipa",
+          "size": 2715044,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.17",
           "buildVersion": "17",
           "date": "2026-10-21T00:06:28.909000+00:00",

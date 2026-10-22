@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.27",
+          "buildVersion": "27",
+          "date": "2026-10-22T22:32:56.263000+00:00",
+          "localizedDescription": "Kaynak commit 3220956: Süreli anahtar: süre ilk etkinleştirmede başlar (duration; iOS Keychain, Android, Windows); iOS liste kimliği düzeltmesi",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.27/YonetimMasasi-Native-0.1.27.ipa",
+          "size": 2846036,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.24",
           "buildVersion": "24",
           "date": "2026-10-22T00:36:50.094000+00:00",
@@ -93,15 +102,6 @@
           "localizedDescription": "Kaynak commit 58af685: iPad: Stat çerçeve parametre sırası",
           "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.13/YonetimMasasi-Native-0.1.13.ipa",
           "size": 2050346,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.11",
-          "buildVersion": "11",
-          "date": "2026-10-20T22:39:50.354000+00:00",
-          "localizedDescription": "Kaynak commit adba901: iPad: yerleşim türü SwiftUI Layout'u gölgeliyordu (ScreenLayout); onay ayrıntısı parçalara bölündü",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.11/YonetimMasasi-Native-0.1.11.ipa",
-          "size": 1907926,
           "minOSVersion": "17.0"
         }
       ],

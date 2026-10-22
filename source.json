@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.29",
+          "buildVersion": "29",
+          "date": "2026-10-22T23:02:17.327000+00:00",
+          "localizedDescription": "Kaynak commit 9c9986c: Okumalar hesap kilidini almaz (yerel; aynı hesapla eşzamanlı okuma); İfadeler sayfalama; Geçmiş arka planda önceden okunur; hesap → yorum yazdığı profiller; sürüm derlemeden",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.29/YonetimMasasi-Native-0.1.29.ipa",
+          "size": 2843602,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.27",
           "buildVersion": "27",
           "date": "2026-10-22T22:32:56.263000+00:00",
@@ -93,15 +102,6 @@
           "localizedDescription": "Kaynak commit 88faeec: Yerel geçmiş (yalnız okuma): Kotlin ve Swift çekirdeğine taşındı, Router'a bağlandı",
           "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.15/YonetimMasasi-Native-0.1.15.ipa",
           "size": 2392618,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.13",
-          "buildVersion": "13",
-          "date": "2026-10-20T23:06:35.161000+00:00",
-          "localizedDescription": "Kaynak commit 58af685: iPad: Stat çerçeve parametre sırası",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.13/YonetimMasasi-Native-0.1.13.ipa",
-          "size": 2050346,
           "minOSVersion": "17.0"
         }
       ],

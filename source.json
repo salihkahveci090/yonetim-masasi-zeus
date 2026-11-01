@@ -15,6 +15,15 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.1.32",
+          "buildVersion": "32",
+          "date": "2026-11-01T21:53:11.017000+00:00",
+          "localizedDescription": "Kaynak commit 29bc09f: iOS arka plan denemesi: okuma sayfaları açık bekler ve yeniden kullanılır (sayfa içi ses sürer); günlükte bekleyen sayfanın durumu",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.32/YonetimMasasi-Native-0.1.32.ipa",
+          "size": 2869369,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.31",
           "buildVersion": "31",
           "date": "2026-11-01T21:05:42.782000+00:00",
@@ -93,15 +102,6 @@
           "localizedDescription": "Kaynak commit bc29d4d: Eşit kutucuklar ve hizalı alanlar, sayfa değişince girişler temizlenir, notlu Yeniden üret, olumlu ifade hafızası (iOS), okuma hatasında neden",
           "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.19/YonetimMasasi-Native-0.1.19.ipa",
           "size": 2715044,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.17",
-          "buildVersion": "17",
-          "date": "2026-10-21T00:06:28.909000+00:00",
-          "localizedDescription": "Kaynak commit 857438e: iOS: Yorumlar, Geçmiş, Örnekler, Haftalık özet, AI kullanımı ve Telegram ekranları; zamanlayıcıya yorum inceleme, geçmiş, Telegram ve cihaz bildirimi",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.17/YonetimMasasi-Native-0.1.17.ipa",
-          "size": 2681486,
           "minOSVersion": "17.0"
         }
       ],

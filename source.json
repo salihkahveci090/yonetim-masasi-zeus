@@ -1,7 +1,7 @@
 {
   "name": "FB Yönetim",
   "identifier": "com.desk.yonetim.source",
-  "subtitle": "FB Yönetim (yerel iPad/iPhone uygulaması)",
+  "subtitle": "FB Yönetim (merkeze bağlanan iPad/iPhone uygulaması)",
   "iconURL": "https://raw.githubusercontent.com/salihkahveci090/yonetim-masasi-zeus/main/icon.png",
   "apps": [
     {
@@ -9,7 +9,7 @@
       "bundleIdentifier": "com.desk.yonetim.native",
       "developerName": "FB Yönetim",
       "subtitle": "Facebook hesap yönetimi",
-      "localizedDescription": "Facebook hesap yönetimi: onay kuyruğu, takip, yorumlar (yerel iPad/iPhone uygulaması).",
+      "localizedDescription": "Facebook hesap yönetimi: onay kuyruğu, takip, yorumlar. İşlemleri merkez yapar; giriş için merkezden aldığınız anahtar gerekir.",
       "iconURL": "https://raw.githubusercontent.com/salihkahveci090/yonetim-masasi-zeus/main/icon.png",
       "tintColor": "#2F5BFF",
       "category": "utilities",
@@ -20,86 +20,6 @@
           "localizedDescription": "Kaynak commit ee8a90d: Eski cihaz motoru kalıntıları silindi (native/ senaryo dosyaları, tools/native-*); olay etiketleri shared/ altında tek kaynak",
           "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.6/YonetimMasasi-Native-0.2.6.ipa",
           "size": 1678890,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.2.4",
-          "buildVersion": "104",
-          "localizedDescription": "Kaynak commit f39bef5: Sürümler: Android 0.4.0, Windows 1.7.0",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.4/YonetimMasasi-Native-0.2.4.ipa",
-          "size": 2901417,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.32",
-          "buildVersion": "32",
-          "date": "2026-11-01T21:53:11.017000+00:00",
-          "localizedDescription": "Kaynak commit 29bc09f: iOS arka plan denemesi: okuma sayfaları açık bekler ve yeniden kullanılır (sayfa içi ses sürer); günlükte bekleyen sayfanın durumu",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.32/YonetimMasasi-Native-0.1.32.ipa",
-          "size": 2869369,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.31",
-          "buildVersion": "31",
-          "date": "2026-11-01T21:05:42.782000+00:00",
-          "localizedDescription": "Kaynak commit 5ba73df: iOS arka plan: tanı günlüğü (Ayarlar → Arka plan), gizli sayfada kısık ses (videolar sessiz), iPadOS arka plan yenilemesi",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.31/YonetimMasasi-Native-0.1.31.ipa",
-          "size": 2862835,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.29",
-          "buildVersion": "29",
-          "date": "2026-10-22T23:02:17.327000+00:00",
-          "localizedDescription": "Kaynak commit 9c9986c: Okumalar hesap kilidini almaz (yerel; aynı hesapla eşzamanlı okuma); İfadeler sayfalama; Geçmiş arka planda önceden okunur; hesap → yorum yazdığı profiller; sürüm derlemeden",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.29/YonetimMasasi-Native-0.1.29.ipa",
-          "size": 2843602,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.27",
-          "buildVersion": "27",
-          "date": "2026-10-22T22:32:56.263000+00:00",
-          "localizedDescription": "Kaynak commit 3220956: Süreli anahtar: süre ilk etkinleştirmede başlar (duration; iOS Keychain, Android, Windows); iOS liste kimliği düzeltmesi",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.27/YonetimMasasi-Native-0.1.27.ipa",
-          "size": 2846036,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.24",
-          "buildVersion": "24",
-          "date": "2026-10-22T00:36:50.094000+00:00",
-          "localizedDescription": "Kaynak commit 023ce73: Yorum AI incelemesi aynı anda 5 istek (sonuç sırası TypeScript ile aynı); AI hata özeti ve yeniden dene; sayaçlar tek geçiş",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.24/YonetimMasasi-Native-0.1.24.ipa",
-          "size": 2787025,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.23",
-          "buildVersion": "23",
-          "date": "2026-10-21T23:55:55.595000+00:00",
-          "localizedDescription": "Kaynak commit 51d004e: Ekran kapalıyken okuma: WebKit sayfa işlemi ön plan önceliğinde; arka plan turu tanısı; Takip'teki profiller Yorumlar'a otomatik kaynak olur",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.23/YonetimMasasi-Native-0.1.23.ipa",
-          "size": 2755059,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.22",
-          "buildVersion": "22",
-          "date": "2026-10-21T19:19:54.898000+00:00",
-          "localizedDescription": "Kaynak commit 7039814: Hesap oturumları 12 saatte bir doğrulanır (dailySessionTick, Kotlin + Swift); Yorumlar 10'arlı sayfalama; arka plan varsayılan açık",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.22/YonetimMasasi-Native-0.1.22.ipa",
-          "size": 2745103,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.21",
-          "buildVersion": "21",
-          "date": "2026-10-21T10:23:10.838000+00:00",
-          "localizedDescription": "Kaynak commit fdcd09e: Ekran kapalıyken çalışma (sessiz ses, Ayarlar → Arka plan), izlenen profilde yeni gönderi cihaz bildirimi, yorum okumada PAGE_TIMEOUT",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.21/YonetimMasasi-Native-0.1.21.ipa",
-          "size": 2735861,
           "minOSVersion": "17.0"
         }
       ],

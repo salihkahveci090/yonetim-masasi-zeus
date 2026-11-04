@@ -15,6 +15,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.2.6",
+          "buildVersion": "106",
+          "localizedDescription": "Kaynak commit ee8a90d: Eski cihaz motoru kalıntıları silindi (native/ senaryo dosyaları, tools/native-*); olay etiketleri shared/ altında tek kaynak",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.6/YonetimMasasi-Native-0.2.6.ipa",
+          "size": 1678890,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.2.4",
           "buildVersion": "104",
           "localizedDescription": "Kaynak commit f39bef5: Sürümler: Android 0.4.0, Windows 1.7.0",
@@ -92,15 +100,6 @@
           "localizedDescription": "Kaynak commit fdcd09e: Ekran kapalıyken çalışma (sessiz ses, Ayarlar → Arka plan), izlenen profilde yeni gönderi cihaz bildirimi, yorum okumada PAGE_TIMEOUT",
           "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.21/YonetimMasasi-Native-0.1.21.ipa",
           "size": 2735861,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.20",
-          "buildVersion": "20",
-          "date": "2026-10-21T02:55:07.584000+00:00",
-          "localizedDescription": "Kaynak commit 9dd8c0e: Yeniden üret: not ve örnek bu üretime öncelikli kural olarak gider; eşit düğmeler, Yorumlar başlığı, Tümü arşiv dahil, akıcı süzgeç, haftalık özet bu hafta, PAGE_TIMEOUT kodu",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.20/YonetimMasasi-Native-0.1.20.ipa",
-          "size": 2723863,
           "minOSVersion": "17.0"
         }
       ],

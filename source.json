@@ -15,11 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.6",
-          "buildVersion": "106",
-          "localizedDescription": "Kaynak commit ee8a90d: Eski cihaz motoru kalıntıları silindi (native/ senaryo dosyaları, tools/native-*); olay etiketleri shared/ altında tek kaynak",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.6/YonetimMasasi-Native-0.2.6.ipa",
-          "size": 1678890,
+          "version": "0.2.8",
+          "buildVersion": "108",
+          "date": "2026-11-04T23:12:59.602000+00:00",
+          "localizedDescription": "Kaynak commit 0581c77: Merge branch 'worktree-agent-a33983e16858b1c01' into native",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.8/YonetimMasasi-Native-0.2.8.ipa",
+          "size": 696571,
           "minOSVersion": "17.0"
         }
       ],

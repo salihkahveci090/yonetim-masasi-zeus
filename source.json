@@ -15,6 +15,14 @@
       "category": "utilities",
       "versions": [
         {
+          "version": "0.2.4",
+          "buildVersion": "104",
+          "localizedDescription": "Kaynak commit f39bef5: Sürümler: Android 0.4.0, Windows 1.7.0",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.4/YonetimMasasi-Native-0.2.4.ipa",
+          "size": 2901417,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.1.32",
           "buildVersion": "32",
           "date": "2026-11-01T21:53:11.017000+00:00",
@@ -93,15 +101,6 @@
           "localizedDescription": "Kaynak commit 9dd8c0e: Yeniden üret: not ve örnek bu üretime öncelikli kural olarak gider; eşit düğmeler, Yorumlar başlığı, Tümü arşiv dahil, akıcı süzgeç, haftalık özet bu hafta, PAGE_TIMEOUT kodu",
           "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.20/YonetimMasasi-Native-0.1.20.ipa",
           "size": 2723863,
-          "minOSVersion": "17.0"
-        },
-        {
-          "version": "0.1.19",
-          "buildVersion": "19",
-          "date": "2026-10-21T02:19:35.695000+00:00",
-          "localizedDescription": "Kaynak commit bc29d4d: Eşit kutucuklar ve hizalı alanlar, sayfa değişince girişler temizlenir, notlu Yeniden üret, olumlu ifade hafızası (iOS), okuma hatasında neden",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.1.19/YonetimMasasi-Native-0.1.19.ipa",
-          "size": 2715044,
           "minOSVersion": "17.0"
         }
       ],

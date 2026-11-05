@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.8",
-          "buildVersion": "108",
-          "date": "2026-11-04T23:12:59.602000+00:00",
-          "localizedDescription": "Kaynak commit 0581c77: Merge branch 'worktree-agent-a33983e16858b1c01' into native",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.8/YonetimMasasi-Native-0.2.8.ipa",
-          "size": 696571,
+          "version": "0.2.10",
+          "buildVersion": "110",
+          "date": "2026-11-05T00:47:53.390000+00:00",
+          "localizedDescription": "Kaynak commit 1d709de: Windows paneli sadeleştirildi (AI kullanım, işlem merkezi, olay günlüğü, bağlantı sağlığı, taslak geçmişi, işlem önizlemesi, Telegram, şifre yöneticisi kaldırıldı; eski şifre/Telegram verisi silinmez); 1.10.0",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.10/YonetimMasasi-Native-0.2.10.ipa",
+          "size": 795650,
           "minOSVersion": "17.0"
         }
       ],

@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.12",
-          "buildVersion": "112",
-          "date": "2026-11-06T20:08:27.708000+00:00",
-          "localizedDescription": "Kaynak commit 417c99d: Engelleyen profilde okuyucunun kendi gönderisi okunmuyor, sıradaki merkez hesabına geçiliyor; Takipler ve Takip bağlantıları birleşti (her takip tüm hesaplardan Facebook'ta takip edilir); Gönderiler ekran genişliğine uyuyor; alt kullanıcı geçmişinde seçerek silme; sayfa değişince en üst; Android 0.9.0",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.12/YonetimMasasi-Native-0.2.12.ipa",
-          "size": 845882,
+          "version": "0.2.13",
+          "buildVersion": "113",
+          "date": "2026-11-06T20:53:57.171000+00:00",
+          "localizedDescription": "Kaynak commit f25ee08: iOS: tutarlı boşluk ölçeği ve iPad genişliği, pencere/tarayıcı kapanışındaki zıplama giderildi, sade metinler, yorum önerisinde Yeniden üret ve Beğenmedim",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.13/YonetimMasasi-Native-0.2.13.ipa",
+          "size": 881473,
           "minOSVersion": "17.0"
         }
       ],

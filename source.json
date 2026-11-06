@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.10",
-          "buildVersion": "110",
-          "date": "2026-11-05T00:47:53.390000+00:00",
-          "localizedDescription": "Kaynak commit 1d709de: Windows paneli sadeleştirildi (AI kullanım, işlem merkezi, olay günlüğü, bağlantı sağlığı, taslak geçmişi, işlem önizlemesi, Telegram, şifre yöneticisi kaldırıldı; eski şifre/Telegram verisi silinmez); 1.10.0",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.10/YonetimMasasi-Native-0.2.10.ipa",
-          "size": 795650,
+          "version": "0.2.11",
+          "buildVersion": "111",
+          "date": "2026-11-06T14:40:33.538000+00:00",
+          "localizedDescription": "Kaynak commit 9a185b9: Alt kullanıcı: yorum duygusunu düzeltme, hesapların tüm yorum geçmişi (Facebook etkinlik günlüğü taraması), uygulama içi tarayıcı; Android 0.8.0",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.11/YonetimMasasi-Native-0.2.11.ipa",
+          "size": 824220,
           "minOSVersion": "17.0"
         }
       ],

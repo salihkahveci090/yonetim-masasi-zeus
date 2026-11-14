@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.13",
-          "buildVersion": "113",
-          "date": "2026-11-06T20:53:57.171000+00:00",
-          "localizedDescription": "Kaynak commit f25ee08: iOS: tutarlı boşluk ölçeği ve iPad genişliği, pencere/tarayıcı kapanışındaki zıplama giderildi, sade metinler, yorum önerisinde Yeniden üret ve Beğenmedim",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.13/YonetimMasasi-Native-0.2.13.ipa",
-          "size": 881473,
+          "version": "0.2.14",
+          "buildVersion": "114",
+          "date": "2026-11-14T23:47:18.760000+00:00",
+          "localizedDescription": "Kaynak commit ff0f593: Sayfa yolunda beğeni yapılamazsa yorum yine gönderilir; beğeni doğrulanmamış kalır",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.14/YonetimMasasi-Native-0.2.14.ipa",
+          "size": 960301,
           "minOSVersion": "17.0"
         }
       ],

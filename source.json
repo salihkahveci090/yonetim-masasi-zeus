@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.15",
-          "buildVersion": "115",
-          "date": "2026-11-15T00:48:44.964000+00:00",
-          "localizedDescription": "Kaynak commit b2f1364: Yorum okuma sağlanan değişkenleri sayfadan alır, yazan bilgisi tamamlanır; sistemdeki hesabın yorumu doğrudan olumlu; istemcilerde 'Sistem şu an çalışmıyor'; Android 0.11.1",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.15/YonetimMasasi-Native-0.2.15.ipa",
-          "size": 960313,
+          "version": "0.2.16",
+          "buildVersion": "116",
+          "date": "2026-11-15T10:01:14.595000+00:00",
+          "localizedDescription": "Kaynak commit decdd11: Silinmiş yanıt/yorum çift gönderim korumasında sayılmaz; okumada profili göremeyen hesaplar atlanır; yanıt penceresinde 'Nasıl olmalı?'; Android 0.11.2",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.16/YonetimMasasi-Native-0.2.16.ipa",
+          "size": 961556,
           "minOSVersion": "17.0"
         }
       ],

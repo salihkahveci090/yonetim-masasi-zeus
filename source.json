@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.16",
-          "buildVersion": "116",
-          "date": "2026-11-15T10:01:14.595000+00:00",
-          "localizedDescription": "Kaynak commit decdd11: Silinmiş yanıt/yorum çift gönderim korumasında sayılmaz; okumada profili göremeyen hesaplar atlanır; yanıt penceresinde 'Nasıl olmalı?'; Android 0.11.2",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.16/YonetimMasasi-Native-0.2.16.ipa",
-          "size": 961556,
+          "version": "0.2.17",
+          "buildVersion": "117",
+          "date": "2026-11-15T10:55:48.701000+00:00",
+          "localizedDescription": "Kaynak commit 37bc297: iOS: yanıt penceresinin taslağı pencereden bağımsız saklanır; üretim ekranları yenilemez (yeni yanıt eskisiyle ezilmez)",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.17/YonetimMasasi-Native-0.2.17.ipa",
+          "size": 964012,
           "minOSVersion": "17.0"
         }
       ],

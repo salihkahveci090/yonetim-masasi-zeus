@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.17",
-          "buildVersion": "117",
-          "date": "2026-11-15T10:55:48.701000+00:00",
-          "localizedDescription": "Kaynak commit 37bc297: iOS: yanıt penceresinin taslağı pencereden bağımsız saklanır; üretim ekranları yenilemez (yeni yanıt eskisiyle ezilmez)",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.17/YonetimMasasi-Native-0.2.17.ipa",
-          "size": 964012,
+          "version": "0.2.18",
+          "buildVersion": "118",
+          "date": "2026-11-19T20:16:42.462000+00:00",
+          "localizedDescription": "Kaynak commit 483cb64: iOS: profil fotoğrafları, hesap eklemede giriş düğmesi ve kendiliğinden kapanmayan giriş ekranı, yanıtlanmış yorumda gönderim kapalı, çok hesaptan toplu gönderim ve ilerleme",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.18/YonetimMasasi-Native-0.2.18.ipa",
+          "size": 1049156,
           "minOSVersion": "17.0"
         }
       ],

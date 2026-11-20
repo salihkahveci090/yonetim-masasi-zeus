@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.19",
-          "buildVersion": "119",
-          "date": "2026-11-20T22:24:36.375000+00:00",
-          "localizedDescription": "Kaynak commit f62cfb1: Panel: Genel bakış özeti, haftalık özet hafta seçimi, hata kodları cümleyle, yedek/taşıma/Telegram ayarları, hesap tarzı; elle yedekler listede; iOS yeni tema",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.19/YonetimMasasi-Native-0.2.19.ipa",
-          "size": 1090188,
+          "version": "0.2.20",
+          "buildVersion": "120",
+          "date": "2026-11-20T23:48:46.916000+00:00",
+          "localizedDescription": "Kaynak commit 2bb4f79: Kaynaklardan yorum satırları kaldırıldı (TypeScript, Kotlin, Swift, CSS, SQL, ayar ve biçim dosyaları)",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.20/YonetimMasasi-Native-0.2.20.ipa",
+          "size": 1090187,
           "minOSVersion": "17.0"
         }
       ],

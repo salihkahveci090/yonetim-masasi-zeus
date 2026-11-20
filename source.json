@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.18",
-          "buildVersion": "118",
-          "date": "2026-11-19T20:16:42.462000+00:00",
-          "localizedDescription": "Kaynak commit 483cb64: iOS: profil fotoğrafları, hesap eklemede giriş düğmesi ve kendiliğinden kapanmayan giriş ekranı, yanıtlanmış yorumda gönderim kapalı, çok hesaptan toplu gönderim ve ilerleme",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.18/YonetimMasasi-Native-0.2.18.ipa",
-          "size": 1049156,
+          "version": "0.2.19",
+          "buildVersion": "119",
+          "date": "2026-11-20T22:24:36.375000+00:00",
+          "localizedDescription": "Kaynak commit f62cfb1: Panel: Genel bakış özeti, haftalık özet hafta seçimi, hata kodları cümleyle, yedek/taşıma/Telegram ayarları, hesap tarzı; elle yedekler listede; iOS yeni tema",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.19/YonetimMasasi-Native-0.2.19.ipa",
+          "size": 1090188,
           "minOSVersion": "17.0"
         }
       ],

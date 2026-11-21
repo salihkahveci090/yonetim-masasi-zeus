@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.22",
-          "buildVersion": "122",
-          "date": "2026-11-21T19:53:59.540000+00:00",
-          "localizedDescription": "Kaynak commit fbf7cf8: iOS: anahtar alanı biçimlendirme, gönderi yayın zamanı, tema, yan yana düğmeler, tüm verileri sil",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.22/YonetimMasasi-Native-0.2.22.ipa",
-          "size": 1156007,
+          "version": "0.2.23",
+          "buildVersion": "123",
+          "date": "2026-11-21T20:17:00.565000+00:00",
+          "localizedDescription": "Kaynak commit 71e8fa8: iOS: tüm verileri sil merkezdeki veriyi de siler",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.23/YonetimMasasi-Native-0.2.23.ipa",
+          "size": 1156409,
           "minOSVersion": "17.0"
         }
       ],

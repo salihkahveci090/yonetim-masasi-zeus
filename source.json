@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.21",
-          "buildVersion": "121",
-          "date": "2026-11-21T14:14:44.296000+00:00",
-          "localizedDescription": "Kaynak commit dc82955: Eski Electron kabuğu ve Node motoru kaldırıldı; ilk kurulum sihirbazı, yorumlara tepki, gönderiye göre tepki",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.21/YonetimMasasi-Native-0.2.21.ipa",
-          "size": 1122651,
+          "version": "0.2.22",
+          "buildVersion": "122",
+          "date": "2026-11-21T19:53:59.540000+00:00",
+          "localizedDescription": "Kaynak commit fbf7cf8: iOS: anahtar alanı biçimlendirme, gönderi yayın zamanı, tema, yan yana düğmeler, tüm verileri sil",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.22/YonetimMasasi-Native-0.2.22.ipa",
+          "size": 1156007,
           "minOSVersion": "17.0"
         }
       ],

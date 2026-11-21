@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.23",
-          "buildVersion": "123",
-          "date": "2026-11-21T20:17:00.565000+00:00",
-          "localizedDescription": "Kaynak commit 71e8fa8: iOS: tüm verileri sil merkezdeki veriyi de siler",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.23/YonetimMasasi-Native-0.2.23.ipa",
-          "size": 1156409,
+          "version": "0.2.25",
+          "buildVersion": "125",
+          "date": "2026-11-21T23:43:06.299000+00:00",
+          "localizedDescription": "Kaynak commit 4852299: iOS: aynı adlı iki kaynak dosyası derlemeyi bozuyordu",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.25/YonetimMasasi-Native-0.2.25.ipa",
+          "size": 1229760,
           "minOSVersion": "17.0"
         }
       ],

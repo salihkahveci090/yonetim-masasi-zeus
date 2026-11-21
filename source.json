@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.20",
-          "buildVersion": "120",
-          "date": "2026-11-20T23:48:46.916000+00:00",
-          "localizedDescription": "Kaynak commit 2bb4f79: Kaynaklardan yorum satırları kaldırıldı (TypeScript, Kotlin, Swift, CSS, SQL, ayar ve biçim dosyaları)",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.20/YonetimMasasi-Native-0.2.20.ipa",
-          "size": 1090187,
+          "version": "0.2.21",
+          "buildVersion": "121",
+          "date": "2026-11-21T14:14:44.296000+00:00",
+          "localizedDescription": "Kaynak commit dc82955: Eski Electron kabuğu ve Node motoru kaldırıldı; ilk kurulum sihirbazı, yorumlara tepki, gönderiye göre tepki",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.21/YonetimMasasi-Native-0.2.21.ipa",
+          "size": 1122651,
           "minOSVersion": "17.0"
         }
       ],

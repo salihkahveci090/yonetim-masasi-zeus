@@ -15,12 +15,12 @@
       "category": "utilities",
       "versions": [
         {
-          "version": "0.2.25",
-          "buildVersion": "125",
-          "date": "2026-11-21T23:43:06.299000+00:00",
-          "localizedDescription": "Kaynak commit 4852299: iOS: aynı adlı iki kaynak dosyası derlemeyi bozuyordu",
-          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.25/YonetimMasasi-Native-0.2.25.ipa",
-          "size": 1229760,
+          "version": "0.2.26",
+          "buildVersion": "126",
+          "date": "2026-11-25T01:52:57.696000+00:00",
+          "localizedDescription": "Kaynak commit 4c30cc9: Sürüm 1.12.36: yorum gönderme ve silme tarayıcısız, yeni logo, Android 0.19.0",
+          "downloadURL": "https://github.com/salihkahveci090/yonetim-masasi-zeus/releases/download/v0.2.26/YonetimMasasi-Native-0.2.26.ipa",
+          "size": 2354669,
           "minOSVersion": "17.0"
         }
       ],
